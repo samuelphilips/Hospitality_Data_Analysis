@@ -1,6 +1,6 @@
 # Hospitality_Data_Analysis
 
-In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that created backdrop in  market share. As a Data analyst I have to draw the data insights ,analyze and solve the problem statement posted .
+In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that created a backdrop in  market share. As a Data analyst I have to draw the data insights ,analyze and solve the problem statement posted .
 
 Glimpse of some noteworthy facts about AtliQ Grands:
 
